@@ -1,7 +1,7 @@
 
   # Catalogo de Productos
 
-  This is a code bundle for Catalogo de Productos. The original project is available at https://www.figma.com/design/N1Yt7EWWV4BZ0PYrpeSbPP/Catalogo-de-Productos.
+  This is a code bundle for Catalogo de Productos. Hecho primeramente con Figma.
 
   ## Running the code
 
